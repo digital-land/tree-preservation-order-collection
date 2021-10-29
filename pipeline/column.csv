@@ -1,1 +1,6 @@
 pipeline,resource,pattern,value
+tree-preservation-order,,WKT,point
+tree-preservation-order,,LEGISLATION,legislation
+tree-preservation-order,,ORDER_MADE,start-date
+tree-preservation-order,,WKT,geometry
+tree-preservation-order,,CODE,geography
