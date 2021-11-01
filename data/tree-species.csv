@@ -1,0 +1,120 @@
+entity,tree-species,wikidata,name,latin-name,wikipedia
+7100000,7100000,Q10884,Unknown,,Tree
+7100001,7100001,Q152079,Ash,Fraxinus excelsior,Ash
+7100002,7100002,Q147064,Black Poplar,Populus nigra,Black_Poplar
+7100003,7100003,Q196,Cherry,Prunus,Cherry
+7100004,7100004,Q146149,Common Beech,Fagus sylvatica,Common_Beech
+7100005,7100005,Q147939,Common Laburnum,Laburnum anagyroides,Common_Laburnum
+7100006,7100006,Q285314,Common Lime,Tilia Cordata,Common_Lime
+7100007,7100007,Q104819,Crab Apple,Malus,Crab_Apple
+7100008,7100008,Q45669,Eucalyptus,Eucalyptus,Eucalyptus
+7100009,7100009,Q157417,False Acacia,Robinia pseudoacacia,False_Acacia
+7100010,7100010,Q158785,Field Maple,Acer campestre,Field_Maple
+7100011,7100011,Q104552567,Holm Oak,Quercus ilex,Holm_Oak
+7100012,7100012,Q158752,Horse Chestnut,Aesculus hippocastanum,Horse_Chestnut
+7100014,7100014,Q352803,Lime,Tilia,Lime
+7100015,7100015,Q161374,London Plane,Acer plantanus,London_Plane
+7100016,7100016,Q26745,Norway Maple,Acer platanoides,Norway_Maple
+7100017,7100017,Q12004,Oak,Quercus,Oak
+7100018,7100018,Q156895,Silver Birch,Betula pendula,Silver_Birch
+7100019,7100019,Q3506777,Sycamore,Acer pseudoplatanus,Sycamore
+7100020,7100020,Q49185077,White Ash,Franinus americana,White_Ash
+7100021,7100021,Q7995670,White Poplar,Populus alba,White_Poplar
+7100022,7100022,Q17038225,Yew,Taxus baccaata,Yew
+7100023,7100023,Q12004,Common Oak,Quercus robur,Oak
+7100024,7100024,Q638095,Algerian Oak,,Algerian_Oak
+7100025,7100025,Q117085,Variegated Holly,,Holly
+7100026,7100026,Q917216,Kashmir Cypres,,Cupressus_cashmeriana
+7100027,7100027,Q9213445,Cedar,Cedrus,Cedar
+7100028,7100028,Q7655643,Sweet Bay,Laurus nobilis,Sweet_Bay
+7100029,7100029,Q36146,Fig,Ficus carica,Fig
+7100030,7100030,Q269224,Japanese Maple,Acer japonicum,Japanese_Maple
+7100031,7100031,Q146951,Purple Plum,Prunus cerasifera,Prunus_cerasifera
+7100032,7100032,Q161166,Ash Leaved Maple,Acer negundo,Acer_negundo
+7100033,7100033,Q158513,Hornbeam,Carpinus betulus,Hornbeam
+7100034,7100034,Q36050,Willow,Salix,Willow
+7100035,7100035,Q157230,Weymouth Pine,Pinus strbus,Weymouth_Pine
+7100036,7100036,Q161360,Lawson's Cypress,Chamaecyparis lawsoniana,Lawson's_Cypress
+7100037,7100037,Q157748,Pyracantha,,Pyracantha
+7100038,7100038,Q158301,Silver Maple,Acer saccharinum,Silver_Maple
+7100039,7100039,Q1935589,Cherry Laurel,Prunus laurocerasus,Cherry_Laurel
+7100040,7100040,Q156907,Weeping Ash,Fraxinus excelsior,Fraxinus_excelsior
+7100041,7100041,Q434,Pear,Pyrus,Pear
+7100042,7100042,Q8000585,Wild Cherry,Prunus avium,Wild_Cherry
+7100043,7100043,Q89,Apple,Malus,Apple
+7100044,7100044,Q124969,Corylus avellana,,Corylus_avellana
+7100045,7100045,Q1969110,Prunus lusitanica,,Prunus_lusitanica
+7100046,7100046,Q163760,Tilia x europaea,,Tilia_x_europaea
+7100047,7100047,Q149461,Ginkgo,Ginkgo biloba,Ginkgo
+7100048,7100048,Q52387698,Evergreen Oak,,Evergreen_Oak
+7100049,7100049,Q146149,Fern Leaved Beech,Fagus sylvatica 'Asplenifolia',Fagus_sylvatica
+7100050,7100050,Q159570,Tree of Heaven,Ailanthus altissima,Tree_of_Heaven
+7100051,7100051,Q157650,Honey Locust,Gleditsia triacanthos,Honey_Locust
+7100052,7100052,Q157417,Yellow Acacia,Robinia pseudoacacia 'Aurea',Robinia_pseudoacacia
+7100053,7100053,Q161364,Red Maple,Acer rubrum,Red_Maple
+7100054,7100054,Q369622,Red Oak,Quercus rubra,Red_Oak
+7100055,7100055,Q146149,Purple Beech,,Purple_Beech
+7100056,7100056,Q92810520,Strawberry Tree,Arbutus unedo,Strawberry_Tree
+7100057,7100057,Q145954,Austrian Pine,Pinus nigra,Austrian_Pine
+7100058,7100058,Q402453,Hawthorn,Crataegus,Hawthorn
+7100059,7100059,Q4244649,Whitebeam,Sorbus aria,Whitebeam
+7100060,7100060,Q44789,Mulberry,Morus,Mulberry
+7100061,7100061,Q16769797,Copper Beech,Fagus sylvatica 'Purpurea',Copper_Beech
+7100062,7100062,Q257329,Thorn,,Thorn
+7100063,7100063,Q9564615,Fastigiate Acacia,Acacia exocarpoides,Acacia_exocarpoides
+7100064,7100064,Q449529,Box Elder,,Box_Elder
+7100065,7100065,Q757123,Silver Mimosa,Acacia dealbata,Acacia_dealbata
+7100066,7100066,Q90691610,Mountain Ash,Sorbus aucuparia,Mountain_Ash
+7100067,7100067,Q25239,Alder,Alnus,Alder
+7100068,7100068,Q42292,Maple,Acer,Maple
+7100069,7100069,Q25350,Fir,Abies,Fir
+7100070,7100070,Q1975652,Sequaia,,Sequoia_(genus)
+7100072,7100072,Q22699,Sweet Chestnut,,Sweet_Chestnut
+7100073,7100073,Q145954,Corsican Pine,,Corsican_Pine
+7100074,7100074,Q160580,Ailanthus,,Ailanthus
+7100075,7100075,Q131113,Elm,,Elm
+7100076,7100076,Q5462264,Flowering Cherry,,Flowering_Cherry
+7100077,7100077,Q16860801,Flowering Plum,,Flowering_Plum
+7100078,7100078,Q12646464,Rowan,Sorbus aucuparia,Rowan
+7100079,7100079,Q146911,Cupressus,,Cupressus
+7100083,7100083,Q39594,Bay,,Bay
+7100084,7100084,Q158072,Catalpa,,Catalpa
+7100085,7100085,Q61105,Cedar of Lebanon,,Cedar_of_Lebanon
+7100086,7100086,Q132825,Conifer,,Conifer
+7100087,7100087,Q14169641,Cypress,,Cypress
+7100088,7100088,Q145781,Cytisus Scoparius,,Cytisus_scoparius
+7100089,7100089,Q157017,Evergreen magnolia,,Magnolia
+7100090,7100090,Q165145,Fastigated Oak,Quercus robur 'Fastigiata',Quercus_robur
+7100091,7100091,Q15948756,Flowering Almond,,Flowering_Almond
+7100092,7100092,,Greek Oak,,
+7100093,7100093,Q165321,Japanese Cherry,,Japanese_Cherry
+7100094,7100094,Q25662,Juniper,,Juniper
+7100095,7100095,Q844835,Koelrutia paniculata,,Koelreuteria_paniculata
+7100096,7100096,Q147064,Lombardy Poplar,Populas nigra,
+7100097,7100097,Q147064,Lombardy Poplar,Populas nigra 'Italica',
+7100098,7100098,Q1137183,Macrocarpa,,Macrocarpa
+7100099,7100099,Q157017,Magnolia,,Magnolia
+7100100,7100100,Q161116,Magnolia Grandiflora,,Magnolia_grandiflora
+7100101,7100101,Q146951,Myrobalan Plum,,Myrobalan_Plum
+7100102,7100102,Q12024,Pine,,Pine
+7100103,7100103,Q349237,Poplar,,Poplar
+7100104,7100104,Q753099,Privet Tree,,Privet
+7100105,7100105,Q8000585,Prunus Avium,Wild Cherry,Wild_Cherry
+7100106,7100106,Q15545507,Almond,Prunus Dulcis,Almond
+7100107,7100107,Q1290970,Leyland Cypress,,Leyland_Cypress
+7100108,7100108,Q149335,Redwood,,Redwood
+7100109,7100109,Q140733,Robinia Inermis,Robinia Inermis,Robinieae
+7100110,7100110,Q133128,Scots pine,,Scots_pine
+7100111,7100111,Q309213,Sophora,,Sophora
+7100112,7100112,Q157960,Sorbus Aria,,Sorbus_aria
+7100113,7100113,Q7653361,Swamp Cypress,,Swamp_Cypress
+7100114,7100114,Q147392,Taxodium,Taxodium,Taxodium
+7100115,7100115,Q7653361,Swamp Cypress,Taxodium distichum,Swamp_Cypress
+7100116,7100116,Q147255,Thuja,,Thuja
+7100117,7100117,Q16796847,Turkey Oak,,Turkey_Oak
+7100118,7100118,Q208021,Walnut,,Walnut
+7100119,7100119,Q161382,Weeping Lime,Tilia tomentosa 'Petiolaris',Tilia_tomentosa
+7100120,7100120,Q7979587,Weeping Willow,,Weeping_Willow
+7100121,7100121,Q187454,Zelkova,,Zelkova
+7100122,7100122,Q158780,Chile Pine,,Araucaria_araucana
+7100123,7100123,Q105599030,Cherry Plum,,Cherry_Plum
