@@ -41,6 +41,8 @@ w = csv.DictWriter(open("tmp/lookup.csv", "w", newline=""), ["pipeline", "resour
 w.writeheader()
 
 for key, row in lookup.items():
+    if not row["value"]:
+        next
     if not  row.get("entity", ""):
         dataset = row["pipeline"]
         row["entity"] = entity[dataset]
