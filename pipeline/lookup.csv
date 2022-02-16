@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 tree-preservation-order,,local-authority-eng:LBH,1,7001000001
 tree-preservation-order,,local-authority-eng:LBH,2,7001000002
 tree-preservation-order,,local-authority-eng:LBH,3,7001000003
