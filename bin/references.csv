@@ -1,0 +1,46 @@
+#!/usr/bin/env python3
+
+import csv
+
+organisations = {}
+defaults = {}
+prefixes = { 
+    "conservation-area": "ca",
+    "article-4-direction": "a4d",
+    "tree-preservation-order": "tpo",
+    "tree-preservation-zone": "tpz",
+    "tree": "tree",
+}
+
+def key(row):
+    return f'{row["dataset"]}:{row["endpoint"]}:{row["field"]}'
+
+# organisations ..
+for row in csv.DictReader(open("var/cache/organisation.csv")):
+    organisations[row["organisation"]] = row
+
+# existing default-values ..
+path = "pipeline/default-value.csv"
+if os.path.isfile(path):
+    for row in csv.DictReader(open(path)):
+        defaults[key(row)] = row
+
+# organisations with endpoints ..
+for row in csv.DictReader(open("collection/source.csv")):
+    if row.get("endpoint", ""):
+        e = organisations[row["organisation"]]["entity"]
+        for dataset in row["pipelines"].split(";"):
+            p = prefixes[dataset]
+            row["dataset"] = dataset
+            row["field"] = "prefix"
+            row["value"] = f"{p}{e}"
+            defaults[key(row)] = row
+
+#dataset,endpoint,field,value
+#conservation-area,fc00c8a1bd0212fe6ae7e8fe9be5bc15bcccd68faf39aa2555974d57a822aa12,prefix,ca75
+
+fieldnames=["dataset", "endpoint", "field", "value"]
+w = csv.DictWriter(open("pipeline/default-value.csv", "w", newline=""), fieldnames=fieldnames, extrasaction="ignore")
+w.writeheader()
+for key, row in sorted(defaults.items()):
+    w.writerow(row)
