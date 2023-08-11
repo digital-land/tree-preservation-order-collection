@@ -1,0 +1,1 @@
+{"elapsed":"0.019","endpoint-url":"https://maps.buckscc.gov.uk/arcgis/services/PLANNING/TPO_CSB_ST/MapServer/WFSServer?request=GetFeature&service=WFS&typename=PLANNING_TPO_CSB_ST:Tree_Preservation_Orders_-_Single_Trees__Chiltern___South_Bucks_","entry-date":"2023-08-11T00:13:10.775888","exception":"ConnectionError","ssl-verify":true}
