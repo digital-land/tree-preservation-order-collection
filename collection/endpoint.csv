@@ -15,3 +15,4 @@ d551675f1579af9e69e105e9fe8f33fc4160dd8004fd6975863480e0d16b6337,https://datamil
 3aeef0b2fb0bb0c85a25bd4491b3c56f70924d6a8ae9d9e22764885965a2b4c7,https://medwaymaps.medway.gov.uk/WFS/wfs.exe?service=WFS&version=2.0.0&request=GetFeature&TypeNames=ENV_TREE_PRESERVATION_ORDERS,,wfs,2022-07-01T07:07:56:40Z,,
 de1eb90a8b037292ef8ae14bfabd1184847ef99b7c6296bb6e75379e6c1f9572,https://maps.doncaster.gov.uk/server/rest/services/Planning/TPO_Map/MapServer/1,,arcgis,2022-10-26T10:14:52Z,,
 a05e76e962d438545a5a48c967cd2b1229ebc951a9a4a6d4d7ecad4379f0f1ca,https://maps.doncaster.gov.uk/server/rest/services/Planning/TPO_Map/MapServer/0/,,arcgis,2022-10-26T10:15:59Z,,
+197442524d853ded36d6752aa9692bc1f98ee34e9d0d2368083b907f02c5ca74,https://raw.githubusercontent.com/digital-land/tree-preservation-order-collection/main/data/tree-preservation-zone-type.csv,,,2023-09-11T12:12:28:05Z,,

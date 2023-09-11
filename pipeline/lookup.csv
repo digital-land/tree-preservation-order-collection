@@ -34618,3 +34618,6 @@ tree,,,local-authority-eng:DNC,DMBC/TPO/00423/T12,7002019243
 tree,,,local-authority-eng:DNC,DMBC/TPO/00423/T13,7002019244
 tree,,,local-authority-eng:DNC,DMBC/TPO/00423/T14,7002019245
 tree,,,local-authority-eng:DNC,DMBC/TPO/00423/T15,7002019246
+tree-preservation-zone-type,,,government-organisation:D1342,area,18100000
+tree-preservation-zone-type,,,government-organisation:D1342,group,18100001
+tree-preservation-zone-type,,,government-organisation:D1342,woodland,18100002
