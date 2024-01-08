@@ -1,0 +1,1 @@
+{"elapsed":"141.473","endpoint-url":"https://maps.buckscc.gov.uk/arcgis/services/PLANNING/TPO_CSB_WL/MapServer/WFSServer?request=GetFeature&service=WFS&typename=PLANNING_TPO_CSB_WL:Tree_Preservation_Orders_-_Woodlands__Chiltern___South_Bucks_","entry-date":"2024-01-08T00:15:19.592171","exception":"ConnectionError","ssl-verify":true}
