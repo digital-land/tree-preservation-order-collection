@@ -27,3 +27,4 @@ ff199b1dc647436cb33b44f767c27b282ac993f2c0b8b8e9e5158774d1d5824a,https://service
 9240f1ca39efc8880a909f92bd0613c9dbd6cf1990217a95af35a57e176ab2e4,https://services7.arcgis.com/NXULfNGIlsKmpCJD/ArcGIS/rest/services/Tree_Preservation_Zone/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson,,,2024-01-02,2023-09-25,
 18b8591914390e3b482e630ca800ab90e75f1022406ed23d04db54b5c481493c,https://tewkesburybc.s3.eu-west-2.amazonaws.com/geojson/tree-preservation-order-dataset.csv,,,2024-01-16,2023-11-03,
 7e6f645c62de982f0dc14414618cfa541ec2e0983cfe4567246bf01ec5f00273,https://tewkesburybc.s3.eu-west-2.amazonaws.com/geojson/tree-preservation-zone.geojson,,,2024-01-22,2023-11-03,
+bc931f92317d0ed738079632e507f3b58976fe0826c733c1e3a3a7f72fa65624,https://gis.westberks.gov.uk/server/rest/services/Layers/LPA_TREE_PRESERVATION_ORDERS/FeatureServer/0/query?where=1%3D1&f=geojson&outFields=*,,,2024-01-23,2023-12-18,
