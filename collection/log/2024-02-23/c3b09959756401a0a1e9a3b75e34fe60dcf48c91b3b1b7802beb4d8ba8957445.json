@@ -1,0 +1,1 @@
+{"elapsed":"120.637","endpoint-url":"https://gis.westberks.gov.uk/server/rest/services/Layers/LPA_TREE_PRESERVATION_ZONES/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson","entry-date":"2024-02-23T00:14:50.548983","exception":"ReadTimeout","ssl-verify":true}
