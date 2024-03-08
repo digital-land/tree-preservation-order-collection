@@ -30,3 +30,5 @@ collection/resource.csv
 collection/pipeline.mk
 hoisted/
 flattened/
+# Logs are in S3
+collection/log
