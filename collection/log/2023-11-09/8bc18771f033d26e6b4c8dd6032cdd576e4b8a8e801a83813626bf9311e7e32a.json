@@ -1,1 +1,0 @@
-{"elapsed":"120.631","endpoint-url":"https://maps.buckscc.gov.uk/arcgis/services/PLANNING/TPO_AV/MapServer/WFSServer?request=GetFeature&service=WFS&typename=PLANNING_TPO_AV:Tree_Preservation_Orders__Aylesbury_Vale_","entry-date":"2023-11-09T00:14:54.060857","exception":"ReadTimeout","ssl-verify":true}
