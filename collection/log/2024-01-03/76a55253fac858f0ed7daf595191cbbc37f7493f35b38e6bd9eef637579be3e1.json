@@ -1,1 +1,0 @@
-{"elapsed":"158.853","endpoint-url":"https://maps.buckscc.gov.uk/arcgis/services/PLANNING/TPO_WDC/MapServer/WFSServer?request=GetFeature&service=WFS&typename=PLANNING_TPO_WDC:Tree_Preservation_Orders__Wycombe_","entry-date":"2024-01-03T00:14:15.890025","exception":"ConnectionError","ssl-verify":true}
