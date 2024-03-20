@@ -1,4 +1,4 @@
-# Tree preservation order collection
+# Tree preservation order collection  ⚠️ Centralised
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/tree-preservation-order-collection/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/tree-preservation-order-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/tree-preservation-order-collection/actions/workflows/run.yml)
